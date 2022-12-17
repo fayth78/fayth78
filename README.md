@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Java and Lua.
 - 💞️ I’m looking to collaborate on anything that makes me improve my programming skills.
-- 📫 How to reach me ...
+- 📫 How to reach me: fayth78@pm.me
 
 <!---
 fayth78/fayth78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
