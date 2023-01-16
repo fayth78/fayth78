@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fayth78
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Java and Lua.
+- 👀 I’m interested in Tech, Gaming and Design.
+- 🌱 I’m currently learning Java, Lua and C.
 - 💞️ I’m looking to collaborate on anything that makes me improve my programming skills.
 - 📫 How to reach me: fayth78@pm.me
 
