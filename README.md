@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning Java, Lua and C.
 - 💞️ I’m looking to collaborate on anything that makes me improve my programming skills.
 - 📫 How to reach me: fayth78@pm.me
+<br>
+
+
+- If you like my work you can directly donate crypto here!
+- #### LTC: `LhuufjwXHQWM4i51888SPEMC3mYAkNJWUt`
+
+
 
 <!---
 fayth78/fayth78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
