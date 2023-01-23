@@ -8,6 +8,7 @@
 
 - If you like my work you can directly donate crypto here!
 - #### LTC: `LhuufjwXHQWM4i51888SPEMC3mYAkNJWUt`
+- #### NEAR: `7c19e04c2da3dd45214328a1a91f5d8812be9432710510038008263f56190229`
 
 
 
