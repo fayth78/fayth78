@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java, Lua and C.
 - 💞️ I’m looking to collaborate on anything that makes me improve my programming skills.
 - 📫 How to reach me: fayth78@pm.me
+- My Gaming Links:
+<a href="https://steamcommunity.com/id/fayth78/">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 <br>
 
 
